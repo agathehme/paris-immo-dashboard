@@ -20,7 +20,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 
-NOM_FICHIER = "source.xlsx"
+NOM_FICHIER = "source.xlsb"
 
 
 # --- 2. CHARGEMENT DES DONNÉES ---
